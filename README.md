@@ -3,6 +3,7 @@ Gives all permutations of a string and its substrings that are words
 
 I came up with this one watching my girlfriend play an app where you make words out of 6 given letters.
 It works well for any number of word puzzle games e.g. what words can you make with your scrabble rack
+or even just to see all of the anagrams of a word and the words that could be made with the letters of that word
 
 The dictionary used to check for "word-yness" is usr/share/dict/words
 It can be a bit obtuse
@@ -66,6 +67,8 @@ As always these calculations are based on the worst case - no repetitons of lett
   
   
 ```
+An example of the output
+currently the program is configured to calculate words of length 3 and up, it could be adjusted to one letter
 
 ```
 Enter a sequence deervil
