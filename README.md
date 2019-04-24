@@ -1,7 +1,7 @@
 # word-solver
 Gives all permutations of a string and its substrings that are words
 
-I came up with this one watching my girlfriend play an app where you make words out of 6 given letters.
+I came up with this one watching my girlfriend play 'wordscapes' an app where you make words out of 6 given letters.
 It works well for any number of word puzzle games e.g. what words can you make with your scrabble rack
 or even just to see all of the anagrams of a word and the words that could be made with the letters of that word
 
